@@ -1,0 +1,30 @@
+a[href].issue-return {
+    float: right;
+    float: inline-end;
+    color: var(--issueheading-text);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h2,
+h3,
+hr {
+    margin: initial;
+}
+
+.controls {position: fixed;text-align: left;width: 100%;top: 0;background-color: honeydew;z-index: 12;left: 0;border-bottom: 1px solid grey;}
+
+input#searchInput {
+    margin: 1em 1em 1em 2em;
+    display: inline-block;
+    width: calc(100% - 4em);
+}
+
+div#textDiv {
+    margin-top: 4em;
+}
+
+::highlight(match) {
+    background-color: orangered;
+    color: white;
+}

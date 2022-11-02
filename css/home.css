@@ -1,0 +1,23 @@
+* {
+    font-family: consolas;
+    /* font-size: 18px; */
+  }
+
+.links {
+    display: inline-block;
+    text-align: left;
+}
+ 
+.links>a {
+  display: block;
+  margin: 0.5em;
+  font-size: 1.4em;
+}
+  .container {
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: darkblue;
+  }
