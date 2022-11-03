@@ -1,4 +1,4 @@
-# A simple and powerful router based on the modern API for client-side routing
-Let’s explore the newest API for straightforward development of single-page applications
+# Novel easy way to highlight text in a web page
+With modern Custom Highlight API you do not have to modify the DOM to highlight text fragments
 
-Sample code for my post https://marian-caikovski.medium.com/a-simple-and-powerful-router-based-on-the-modern-api-for-client-side-routing-b40e9f6eb5bd exploring modern client-side routing
+Sample code for my post https://marian-caikovski.medium.com/novel-easy-way-to-highlight-text-in-a-web-page-96ab1ee72795 exploring the novel technique of highligting text ranges
